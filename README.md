@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @romanjoaquin
-- 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning Java and Unity 3d
-- 💞️ I’m looking to collaborate on a website for my school  
+ Full Stack Developer · TypeScript · Node.js · React · PostgreSQL | Estudiante de Ciberdefensa
 - 📫 How to reach me romanjoaquin504@gmail.com
 
 <!---
