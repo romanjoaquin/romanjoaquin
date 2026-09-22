@@ -9,7 +9,7 @@ Full Stack Developer en Buenos Aires. Trabajo en proyectos para clientes reales 
 
 Los proyectos en los que trabajo actualmente son privados. Si querés saber más, escribime.
 
-📫 romanjoaquin504@gmail.com · [LinkedIn]((https://www.linkedin.com/in/joaqu%C3%ADn-rom%C3%A1n-noguera/))
+📫 romanjoaquin504@gmail.com · [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-rom%C3%A1n-noguera/)
 <!---
 romanjoaquin/romanjoaquin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
